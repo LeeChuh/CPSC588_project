@@ -1,0 +1,13 @@
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - python>=3.7
+  - ipykernel
+  - gensim
+  - torch
+  - torch-scatter
+  - torch-sparse
+  - torch-cluster
+  - torch-spline-cov
+  - torch-geometric
